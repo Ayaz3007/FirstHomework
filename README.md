@@ -1,2 +1,2 @@
 # FirstHomework
-My homework
+Faizullin Ayaz 11-102
