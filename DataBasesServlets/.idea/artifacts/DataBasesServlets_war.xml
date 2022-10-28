@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DataBasesServlets:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>DataBasesServlets</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="DataBasesServlets-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="DataBasesServlets:war exploded" />
+    </root>
+  </artifact>
+</component>
